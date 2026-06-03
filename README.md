@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho como Full-Stack
 - 🌱 Estudando atualmente Infra e segurança
 - 📫 Contate me por: jionarran8@gmail.com
-- 🚀 Desenvolvi a Speakeasying [www.speakeasying.com.br](https://www.speakeasying.com.br) Plataforma de idiomas com chamada de vídeo integrada e transcricao das aulas por IA com análise de fonemas.
+- 🚀 Desenvolvi a Speakeasying [www.speakeasying.com.br](https://www.speakeasying.com.br) Plataforma de idiomas com chamada de vídeo integrada e transcrição das aulas por IA com análise de fonemas.
 
 <div style="display: inline-block; ">
   <img width="50px" alt="jio-react" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
